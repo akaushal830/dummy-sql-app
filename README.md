@@ -1,6 +1,12 @@
 Use query "select * from posts" to test.
 
+Performance metrics:
 
+First Contentful Paint: 1.0 s
+Largest Contentful Paint: 1.4 s
+Total Blocking Time: 40 ms
+Cumulative Layout Shift: 0
+Speed Index: 2.9 s
 
 
 
