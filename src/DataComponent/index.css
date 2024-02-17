@@ -1,0 +1,15 @@
+.border {
+    border: 1px black solid;
+}
+
+.wd-30 {
+    width: 33.3333%;
+}
+
+.table-container {
+    padding: 20px;
+}
+
+.row-container { 
+    display: flex;
+}
